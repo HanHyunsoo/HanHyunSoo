@@ -3,8 +3,7 @@
 </p>
 
 <h3 align="center">Hi there 👋 my name is HyunSoo Han 😁</h3>
-<h4 align="center">I'm mainly studying backend using Spring and Django Framework 💻 <br>
-My hobby is games 🎮 and I would like to challenge game development someday.<h4>
+<h4 align="center">I'm mainly studying backend using Spring Boot 💻<h4>
 
 <hr>
 
@@ -35,11 +34,12 @@ My hobby is games 🎮 and I would like to challenge game development someday.<h
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Ruby On Rails-CC0000?style=flat&logo=RubyOnRails&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
 </p>
 
 <hr>
